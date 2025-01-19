@@ -27,6 +27,7 @@ This project is a tool designed to collect information from a target system. It 
    - Logs and results can be found in the `/build/dist/update` directory (or as specified in your configuration).
 
 ---
+Note: the python must be installed
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
