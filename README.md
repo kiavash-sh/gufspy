@@ -16,15 +16,7 @@ This project is a tool designed to collect information from a target system. It 
 
 
 1. **Run the program**:
-   - Open a terminal or command prompt.
-   - Navigate to the project directory (if you're not already there):
-     ```bash
-     cd /path/to/your-repo-name
-     ```
-   - Execute the program:
-     ```bash
-     python main.py
-     ```
+   - Run the .exe file
 
 2. **Enter the activation code**:
    - you need activation code to use 
