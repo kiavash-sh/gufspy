@@ -1,0 +1,22 @@
+{
+    "kia@gmail.com": {
+        "activation_key": "4963dc1edabb1da3d4d152484ceae484",
+        "uuid": [],
+        "machine-count": 2
+    },
+    "tester@gmail.com": {
+        "activation_key": "cff1024dbad7ad6beadef229c73b90a6",
+        "uuid": [],
+        "machine-count": 1
+    },
+    "newuser@gmail.com": {
+        "activation_key": "0687ef899d13bbc06112be10921e315e",
+        "uuid": [],
+        "machine-count": 10
+    },
+    "testus12@gmail.com": {
+        "activation_key": "62086217b43f49674df6339d22aacb7a",
+        "uuid": [],
+        "machine-count": 1
+    }
+}

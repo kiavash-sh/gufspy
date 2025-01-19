@@ -1,0 +1,12 @@
+{
+    "mod": 1,
+    "upload": 0,
+    "chrome-pass": 1,
+    "admin": 1,
+    "remove": 0,
+    "endpoint-url": "",
+    "access-key": "",
+    "secret-key": "",
+    "file_paths": [],
+    "gui-setup": "Console"
+}
