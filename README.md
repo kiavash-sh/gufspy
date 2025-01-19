@@ -16,13 +16,14 @@ This project is a tool designed to collect information from a target system. It 
 
 
 1. **Run the program**:
+   - pip install -r requirements.txt
    - Run the .exe file
 
-2. **Enter the activation code**:
+3. **Enter the activation code**:
    - you need activation code to use 
 
 
-3. **Check the output**:
+4. **Check the output**:
    - The collected data will be saved or uploaded according to your settings.
    - Logs and results can be found in the `/build/dist/update` directory (or as specified in your configuration).
 
