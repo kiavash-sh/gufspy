@@ -1,2 +1,5 @@
-# gufspy
-guf app is an app I create it you can create virus to rob data from windows
+
+## Feedback
+
+If you have any feedback, please reach out to us at kiavashshtzd@gmail.com
+
